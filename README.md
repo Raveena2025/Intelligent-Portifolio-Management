@@ -77,9 +77,7 @@ jupyter notebook Main.ipynb
 **4️⃣ Modelling (Ridge & Random Forest)** – Predicted portfolio returns and volatilities.  
 **5️⃣ Portfolio Optimization** – Selected top-performing clusters for balanced diversification.  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raveena2025/Intelligent-Portifolio-Management/main/reports/figures/pipeline_diagram.png" width="75%" alt="Pipeline Diagram (Optional)" />
-</p>
+
 
 ---
 
